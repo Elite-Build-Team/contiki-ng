@@ -51,13 +51,9 @@
 #define LOG_LEVEL LOG_LEVEL_INFO
 
 /* Configuration */
-#define SEND_INTERVAL (8 * CLOCK_SECOND)
+static clock_time_t rtt_start, rtt_end; // Get the system time.
+static unsigned int num, num_buf;
 static linkaddr_t dest_addr =         {{ 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }};
-
-#if MAC_CONF_WITH_TSCH
-#include "net/mac/tsch/tsch.h"
-static linkaddr_t coordinator_addr =  {{ 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }};
-#endif /* MAC_CONF_WITH_TSCH */
 
 /*---------------------------------------------------------------------------*/
 PROCESS(nullnet_example_process, "NullNet unicast example");
@@ -68,41 +64,43 @@ void input_callback(const void *data, uint16_t len,
   const linkaddr_t *src, const linkaddr_t *dest)
 {
   if(len == sizeof(unsigned)) {
-    unsigned count;
-    memcpy(&count, data, sizeof(count));
-    LOG_INFO("Received %u from ", count);
-    LOG_INFO_LLADDR(src);
-    LOG_INFO_("\n");
+    unsigned int recv_num;
+    memcpy(&recv_num, data, sizeof(recv_num));
+    if (recv_num == num) {
+      rtt_end = clock_time();
+      LOG_INFO("RTT TIME : %u", rtt_end-rtt_start);
+    } else {
+      num_buf = recv_num;
+      NETSTACK_NETWORK.output(&src_addr);
+    }
   }
 }
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(nullnet_example_process, ev, data)
 {
-  static struct etimer periodic_timer;
-  static unsigned count = 0;
+  button_hal_button_t *btn;
 
   PROCESS_BEGIN();
 
-#if MAC_CONF_WITH_TSCH
-  tsch_set_coordinator(linkaddr_cmp(&coordinator_addr, &linkaddr_node_addr));
-#endif /* MAC_CONF_WITH_TSCH */
+  random_init();
 
-  /* Initialize NullNet */
-  nullnet_buf = (uint8_t *)&count;
-  nullnet_len = sizeof(count);
+  nullnet_buf = (uint8_t *)&num_buf;
+  nullnet_len = sizeof(num_buf);
   nullnet_set_input_callback(input_callback);
 
-  if(!linkaddr_cmp(&dest_addr, &linkaddr_node_addr)) {
-    etimer_set(&periodic_timer, SEND_INTERVAL);
-    while(1) {
-      PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
-      LOG_INFO("Sending %u to ", count);
-      LOG_INFO_LLADDR(&dest_addr);
-      LOG_INFO_("\n");
+  btn = button_hal_get_by_index(0);
 
-      NETSTACK_NETWORK.output(&dest_addr);
-      count++;
-      etimer_reset(&periodic_timer);
+  if(!linkaddr_cmp(&dest_addr, &linkaddr_node_addr)) {
+    while(1) {
+      if (ev == button_hal_press_event) {
+        btn = (button_hal_button_t *)data;
+        if (btn == button_hal_get_by_index(0)) {
+          num = random_rand();
+          num_buf = num;
+          rtt_start = clock_time();
+          NETSTACK_NETWORK.output(&dest_addr);
+        }
+      }
     }
   }
 
