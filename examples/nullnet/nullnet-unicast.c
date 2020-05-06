@@ -48,11 +48,6 @@
 #include <string.h>
 #include <stdio.h> /* For printf() */
 
-/* Log configuration */
-#include "sys/log.h"
-#define LOG_MODULE "App"
-#define LOG_LEVEL LOG_LEVEL_INFO
-
 /* Configuration */
 static clock_time_t rtt_start, rtt_end; // Get the system time.
 static unsigned int num, num_buf;
@@ -64,24 +59,24 @@ AUTOSTART_PROCESSES(&nullnet_example_process);
 
 /*---------------------------------------------------------------------------*/
 void input_callback(const void *data, uint16_t len,
-  const linkaddr_t *src, const linkaddr_t *dest)
+  const linkaddr_t *src_addr, const linkaddr_t *dest_adrr)
 {
   if(len == sizeof(unsigned)) {
     unsigned int recv_num;
     memcpy(&recv_num, data, sizeof(recv_num));
     if (recv_num == num) {
       rtt_end = clock_time();
-      LOG_INFO("RTT TIME : %u", rtt_end-rtt_start);
+      printf("RTT TIME : %lu\n", rtt_end-rtt_start);
     } else {
       num_buf = recv_num;
-      NETSTACK_NETWORK.output(&src_addr);
+      NETSTACK_NETWORK.output(src_addr);
     }
   }
 }
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(nullnet_example_process, ev, data)
 {
-  button_hal_button_t *btn;
+  static button_hal_button_t *btn;
 
   PROCESS_BEGIN();
 
@@ -95,6 +90,7 @@ PROCESS_THREAD(nullnet_example_process, ev, data)
 
   if(!linkaddr_cmp(&dest_addr, &linkaddr_node_addr)) {
     while(1) {
+      printf("here");
       if (ev == button_hal_press_event) {
         btn = (button_hal_button_t *)data;
         if (btn == button_hal_get_by_index(0)) {
