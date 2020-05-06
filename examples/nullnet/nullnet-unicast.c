@@ -1,3 +1,4 @@
+/*---------------------------------------------------------------------------*/
 /*
  * Copyright (c) 2017, RISE SICS.
  * All rights reserved.
@@ -39,19 +40,29 @@
  */
 
 #include "contiki.h"
+#include "net/netstack.h"
+#include "net/nullnet/nullnet.h"
 #include "dev/leds.h"
 #include "dev/button-hal.h"
 #include "random.h"
-#include "net/netstack.h"
-#include "net/nullnet/nullnet.h"
 
 #include <string.h>
 #include <stdio.h> /* For printf() */
+
+/* Log configuration */
+#include "sys/log.h"
+#define LOG_MODULE "App"
+#define LOG_LEVEL LOG_LEVEL_INFO
 
 /* Configuration */
 static clock_time_t rtt_start, rtt_end; // Get the system time.
 static unsigned int num, num_buf;
 static linkaddr_t dest_addr =         {{ 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }};
+
+#if MAC_CONF_WITH_TSCH
+#include "net/mac/tsch/tsch.h"
+static linkaddr_t coordinator_addr =  {{ 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }};
+#endif /* MAC_CONF_WITH_TSCH */
 
 /*---------------------------------------------------------------------------*/
 PROCESS(nullnet_example_process, "NullNet unicast example");
@@ -64,9 +75,11 @@ void input_callback(const void *data, uint16_t len,
   if(len == sizeof(unsigned)) {
     unsigned int recv_num;
     memcpy(&recv_num, data, sizeof(recv_num));
+    printf("Here\n");
     if (recv_num == num) {
       rtt_end = clock_time();
-      printf("RTT TIME : %lu\n", rtt_end-rtt_start);
+      LOG_INFO("Received %u\n", recv_num);
+      LOG_INFO("RTT TIME : %lx\n", rtt_end-rtt_start);
     } else {
       num_buf = recv_num;
       NETSTACK_NETWORK.output(src_addr);
@@ -76,29 +89,28 @@ void input_callback(const void *data, uint16_t len,
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(nullnet_example_process, ev, data)
 {
-  static button_hal_button_t *btn;
-
   PROCESS_BEGIN();
+
+#if MAC_CONF_WITH_TSCH
+  tsch_set_coordinator(linkaddr_cmp(&coordinator_addr, &linkaddr_node_addr));
+#endif /* MAC_CONF_WITH_TSCH */
 
   random_init(3);
 
-  nullnet_buf = (uint8_t *)&num_buf;
-  nullnet_len = sizeof(num_buf);
+  /* Initialize NullNet */
+  nullnet_buf = (uint8_t *)&num;
+  nullnet_len = sizeof(num);
   nullnet_set_input_callback(input_callback);
-
-  btn = button_hal_get_by_index(0);
 
   if(!linkaddr_cmp(&dest_addr, &linkaddr_node_addr)) {
     while(1) {
-      printf("here");
+      PROCESS_YIELD();
       if (ev == button_hal_press_event) {
-        btn = (button_hal_button_t *)data;
-        if (btn == button_hal_get_by_index(0)) {
-          num = random_rand();
-          num_buf = num;
-          rtt_start = clock_time();
-          NETSTACK_NETWORK.output(&dest_addr);
-        }
+        num = random_rand();
+        num_buf = num;
+        rtt_start = clock_time();
+        LOG_INFO("Sending %lx\n",num);
+        NETSTACK_NETWORK.output(&dest_addr);
       }
     }
   }
