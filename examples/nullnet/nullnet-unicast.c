@@ -45,6 +45,7 @@
 #include "dev/leds.h"
 #include "dev/button-hal.h"
 #include "random.h"
+#include "clock.h"
 
 #include <string.h>
 #include <stdio.h> /* For printf() */
@@ -56,8 +57,8 @@
 
 /* Configuration */
 static clock_time_t rtt_start, rtt_end; // Get the system time.
-static unsigned int num, num_buf;
-static linkaddr_t dest_addr =         {{ 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }};
+static unsigned int num_buf;
+static linkaddr_t dest_addr =         {{ 0x03, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }};
 
 #if MAC_CONF_WITH_TSCH
 #include "net/mac/tsch/tsch.h"
@@ -75,13 +76,14 @@ void input_callback(const void *data, uint16_t len,
   if(len == sizeof(unsigned)) {
     unsigned int recv_num;
     memcpy(&recv_num, data, sizeof(recv_num));
-    printf("Here\n");
-    if (recv_num == num) {
+    if (recv_num == 1) {
       rtt_end = clock_time();
-      LOG_INFO("Received %u\n", recv_num);
-      LOG_INFO("RTT TIME : %lx\n", rtt_end-rtt_start);
+      LOG_INFO("Received PONG\n");
+      LOG_INFO("RTT TIME : %f secs\n", (float)((rtt_end-rtt_start)/CLOCK_SECOND));
     } else {
-      num_buf = recv_num;
+      LOG_INFO("Received PING\n");
+      num_buf = 1;
+      LOG_INFO("Sending PONG\n");
       NETSTACK_NETWORK.output(src_addr);
     }
   }
@@ -98,18 +100,17 @@ PROCESS_THREAD(nullnet_example_process, ev, data)
   random_init(3);
 
   /* Initialize NullNet */
-  nullnet_buf = (uint8_t *)&num;
-  nullnet_len = sizeof(num);
+  nullnet_buf = (uint8_t *)&num_buf;
+  nullnet_len = sizeof(num_buf);
   nullnet_set_input_callback(input_callback);
 
   if(!linkaddr_cmp(&dest_addr, &linkaddr_node_addr)) {
     while(1) {
       PROCESS_YIELD();
       if (ev == button_hal_press_event) {
-        num = random_rand();
-        num_buf = num;
+        num_buf = 0;
+        LOG_INFO("Sending PING\n");
         rtt_start = clock_time();
-        LOG_INFO("Sending %lx\n",num);
         NETSTACK_NETWORK.output(&dest_addr);
       }
     }
