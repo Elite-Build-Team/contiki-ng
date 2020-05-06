@@ -39,6 +39,9 @@
  */
 
 #include "contiki.h"
+#include "dev/leds.h"
+#include "dev/button-hal.h"
+#include "random.h"
 #include "net/netstack.h"
 #include "net/nullnet/nullnet.h"
 
@@ -82,7 +85,7 @@ PROCESS_THREAD(nullnet_example_process, ev, data)
 
   PROCESS_BEGIN();
 
-  random_init();
+  random_init(3);
 
   nullnet_buf = (uint8_t *)&num_buf;
   nullnet_len = sizeof(num_buf);
