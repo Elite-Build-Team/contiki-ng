@@ -60,11 +60,11 @@ static unsigned long curr_tx, curr_rx, curr_time, curr_cpu, curr_lpm, curr_deep_
 // definition of process with name simple_energest_process
 PROCESS(simple_energest_process, "Simple Energest");
 /*---------------------------------------------------------------------------*/
-static unsigned long
-to_permil(unsigned long delta_metric, unsigned long delta_time)
-{
-  return (1000ul * (delta_metric)) / delta_time;
-}
+// static unsigned long
+// to_permil(unsigned long delta_metric, unsigned long delta_time)
+// {
+//   return (1000ul * (delta_metric)) / delta_time;
+// }
 /*---------------------------------------------------------------------------*/
 static void
 simple_energest_step(void)
