@@ -54,6 +54,7 @@ PROCESS_THREAD(hello_world_process, ev, data)
   while (1) {
     etimer_set(&timer, CLOCK_SECOND);
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer));
+    // Tested only for cooja mote where leds had order G, R, Y with corresponding values 1, 4, 2 each
     leds_set(counter);
     printf("%x %x\n", counter, leds_get());
     counter++;
