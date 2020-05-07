@@ -1,0 +1,1057 @@
+00:00.941	ID:8	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:00.944	ID:8	[INFO: Main      ] - Routing: RPL Lite
+00:00.946	ID:8	[INFO: Main      ] - Net: sicslowpan
+00:00.948	ID:8	[INFO: Main      ] - MAC: CSMA
+00:00.952	ID:8	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.955	ID:8	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.958	ID:8	[INFO: Main      ] Node ID: 8
+00:00.962	ID:8	[INFO: Main      ] Link-layer address: c10c.0000.0000.0008
+00:00.970	ID:8	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:8
+00:00.973	ID:8	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.104	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.107	ID:2	[INFO: Main      ] - Routing: RPL Lite
+00:01.110	ID:2	[INFO: Main      ] - Net: sicslowpan
+00:01.112	ID:2	[INFO: Main      ] - MAC: CSMA
+00:01.115	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.119	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.119	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.121	ID:2	[INFO: Main      ] Node ID: 2
+00:01.122	ID:6	[INFO: Main      ] - Routing: RPL Lite
+00:01.124	ID:6	[INFO: Main      ] - Net: sicslowpan
+00:01.126	ID:2	[INFO: Main      ] Link-layer address: c10c.0000.0000.0002
+00:01.126	ID:6	[INFO: Main      ] - MAC: CSMA
+00:01.130	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.133	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.133	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:2
+00:01.135	ID:6	[INFO: Main      ] Node ID: 6
+00:01.137	ID:2	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.140	ID:6	[INFO: Main      ] Link-layer address: c10c.0000.0000.0006
+00:01.148	ID:6	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:6
+00:01.151	ID:6	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.216	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.219	ID:4	[INFO: Main      ] - Routing: RPL Lite
+00:01.222	ID:4	[INFO: Main      ] - Net: sicslowpan
+00:01.224	ID:4	[INFO: Main      ] - MAC: CSMA
+00:01.227	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.231	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.233	ID:4	[INFO: Main      ] Node ID: 4
+00:01.238	ID:4	[INFO: Main      ] Link-layer address: c10c.0000.0000.0004
+00:01.246	ID:4	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:4
+00:01.249	ID:4	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.250	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.253	ID:1	[INFO: Main      ] - Routing: RPL Lite
+00:01.256	ID:1	[INFO: Main      ] - Net: sicslowpan
+00:01.258	ID:1	[INFO: Main      ] - MAC: CSMA
+00:01.261	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.265	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.267	ID:1	[INFO: Main      ] Node ID: 1
+00:01.270	ID:7	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.272	ID:1	[INFO: Main      ] Link-layer address: c10c.0000.0000.0001
+00:01.273	ID:7	[INFO: Main      ] - Routing: RPL Lite
+00:01.275	ID:7	[INFO: Main      ] - Net: sicslowpan
+00:01.277	ID:7	[INFO: Main      ] - MAC: CSMA
+00:01.280	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:1
+00:01.281	ID:7	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.283	ID:1	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.284	ID:7	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.287	ID:7	[INFO: Main      ] Node ID: 7
+00:01.291	ID:7	[INFO: Main      ] Link-layer address: c10c.0000.0000.0007
+00:01.299	ID:7	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:7
+00:01.302	ID:7	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.424	ID:10	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.427	ID:10	[INFO: Main      ] - Routing: RPL Lite
+00:01.430	ID:10	[INFO: Main      ] - Net: sicslowpan
+00:01.432	ID:10	[INFO: Main      ] - MAC: CSMA
+00:01.435	ID:10	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.439	ID:10	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.441	ID:10	[INFO: Main      ] Node ID: 10
+00:01.446	ID:10	[INFO: Main      ] Link-layer address: c10c.0000.0000.000a
+00:01.454	ID:10	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:a
+00:01.457	ID:10	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.577	ID:9	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.579	ID:9	[INFO: Main      ] - Routing: RPL Lite
+00:01.582	ID:9	[INFO: Main      ] - Net: sicslowpan
+00:01.583	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.584	ID:9	[INFO: Main      ] - MAC: CSMA
+00:01.586	ID:5	[INFO: Main      ] - Routing: RPL Lite
+00:01.587	ID:9	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.589	ID:5	[INFO: Main      ] - Net: sicslowpan
+00:01.591	ID:5	[INFO: Main      ] - MAC: CSMA
+00:01.591	ID:9	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.593	ID:9	[INFO: Main      ] Node ID: 9
+00:01.594	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.598	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.598	ID:9	[INFO: Main      ] Link-layer address: c10c.0000.0000.0009
+00:01.600	ID:5	[INFO: Main      ] Node ID: 5
+00:01.605	ID:5	[INFO: Main      ] Link-layer address: c10c.0000.0000.0005
+00:01.606	ID:9	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:9
+00:01.609	ID:9	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.612	ID:5	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:5
+00:01.616	ID:5	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.767	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v4.4-1-gef5bacc-dirty
+00:01.770	ID:3	[INFO: Main      ] - Routing: RPL Lite
+00:01.773	ID:3	[INFO: Main      ] - Net: sicslowpan
+00:01.775	ID:3	[INFO: Main      ] - MAC: CSMA
+00:01.778	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.782	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.784	ID:3	[INFO: Main      ] Node ID: 3
+00:01.789	ID:3	[INFO: Main      ] Link-layer address: c10c.0000.0000.0003
+00:01.797	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:3
+00:01.800	ID:3	[INFO: Z1        ] CC2420 CCA threshold -45
+00:04.624	ID:5	[INFO: App       ] Not reachable yet
+00:08.543	ID:3	[INFO: App       ] Not reachable yet
+00:11.760	ID:1	[INFO: App       ] Not reachable yet
+00:42.380	ID:8	[INFO: App       ] Not reachable yet
+00:46.293	ID:6	[INFO: App       ] Not reachable yet
+00:50.132	ID:4	[INFO: App       ] Not reachable yet
+00:53.747	ID:2	[INFO: App       ] Not reachable yet
+00:57.151	ID:9	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+00:57.180	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:9
+00:57.183	ID:10	[INFO: App       ] Sending response.
+00:57.239	ID:9	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:00.579	ID:7	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:00.616	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:7
+01:00.618	ID:10	[INFO: App       ] Sending response.
+01:00.637	ID:7	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:00.981	ID:8	[INFO: Energest  ] 0;1966022;5252;1960770;0;547;1965466;1966013
+01:01.147	ID:2	[INFO: Energest  ] 0;1966088;10196;1955892;0;872;1965200;1966072
+01:01.159	ID:6	[INFO: Energest  ] 0;1966022;5763;1960259;0;650;1965361;1966011
+01:01.257	ID:4	[INFO: Energest  ] 0;1966021;6858;1959163;0;872;1965135;1966007
+01:01.296	ID:1	[INFO: Energest  ] 0;1966189;14736;1951453;0;1077;1965098;1966175
+01:01.310	ID:7	[INFO: Energest  ] 0;1966021;5737;1960284;0;803;1965205;1966008
+01:01.465	ID:10	[INFO: Energest  ] 0;1966016;11828;1954188;0;1359;1964644;1966003
+01:01.622	ID:9	[INFO: Energest  ] 0;1966175;12594;1953581;0;966;1965197;1966163
+01:01.624	ID:5	[INFO: Energest  ] 0;1966021;7751;1958270;0;765;1965244;1966009
+01:01.816	ID:3	[INFO: Energest  ] 0;1966285;12259;1954026;0;854;1965418;1966272
+01:03.924	ID:5	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:04.011	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:5
+01:04.013	ID:10	[INFO: App       ] Sending response.
+01:04.050	ID:5	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:08.889	ID:3	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:08.934	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:3
+01:08.936	ID:10	[INFO: App       ] Sending response.
+01:08.950	ID:3	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:11.153	ID:1	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:11.166	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:1
+01:11.169	ID:10	[INFO: App       ] Sending response.
+01:11.215	ID:1	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:43.110	ID:8	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:43.162	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:8
+01:43.165	ID:10	[INFO: App       ] Sending response.
+01:43.223	ID:8	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:46.233	ID:6	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:46.246	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:6
+01:46.249	ID:10	[INFO: App       ] Sending response.
+01:46.309	ID:6	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:49.299	ID:4	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:49.368	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:4
+01:49.371	ID:10	[INFO: App       ] Sending response.
+01:49.399	ID:4	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:53.937	ID:2	[INFO: App       ] Sending request 0 to fd00::c30c:0:0:a
+01:53.995	ID:10	[INFO: App       ] Received request 'hello 0' from fd00::c30c:0:0:2
+01:53.997	ID:10	[INFO: App       ] Sending response.
+01:54.058	ID:2	[INFO: App       ] Received response 'hello 0' from fd00::c30c:0:0:a
+01:56.269	ID:9	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+01:56.297	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:9
+01:56.300	ID:10	[INFO: App       ] Sending response.
+01:56.325	ID:9	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:00.981	ID:8	[INFO: Energest  ] 1;1966078;6193;1959885;0;461;1965613;1966074
+02:01.146	ID:2	[INFO: Energest  ] 1;1966077;7498;1958579;0;368;1965708;1966076
+02:01.159	ID:6	[INFO: Energest  ] 1;1966078;6430;1959648;0;357;1965716;1966073
+02:01.257	ID:4	[INFO: Energest  ] 1;1966080;4390;1961690;0;475;1965603;1966078
+02:01.296	ID:1	[INFO: Energest  ] 1;1966079;13106;1952973;0;514;1965559;1966073
+02:01.310	ID:7	[INFO: Energest  ] 1;1966079;5831;1960248;0;312;1965766;1966078
+02:01.384	ID:7	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:01.436	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:7
+02:01.439	ID:10	[INFO: App       ] Sending response.
+02:01.465	ID:7	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:01.469	ID:10	[INFO: Energest  ] 1;1966217;8925;1957292;0;689;1965517;1966206
+02:01.622	ID:9	[INFO: Energest  ] 1;1966080;12612;1953468;0;492;1965582;1966074
+02:01.624	ID:5	[INFO: Energest  ] 1;1966079;5463;1960616;0;367;1965710;1966077
+02:01.816	ID:3	[INFO: Energest  ] 1;1966080;15248;1950832;0;261;1965816;1966077
+02:03.760	ID:5	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:03.811	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:5
+02:03.813	ID:10	[INFO: App       ] Sending response.
+02:03.870	ID:5	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:08.624	ID:3	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:08.676	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:3
+02:08.678	ID:10	[INFO: App       ] Sending response.
+02:08.715	ID:3	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:11.646	ID:1	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:11.658	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:1
+02:11.661	ID:10	[INFO: App       ] Sending response.
+02:11.673	ID:1	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:42.914	ID:8	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:42.943	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:8
+02:42.946	ID:10	[INFO: App       ] Sending response.
+02:42.989	ID:8	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:47.209	ID:6	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:47.222	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:6
+02:47.225	ID:10	[INFO: App       ] Sending response.
+02:47.239	ID:6	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:49.338	ID:4	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:49.358	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:4
+02:49.360	ID:10	[INFO: App       ] Sending response.
+02:49.423	ID:4	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:54.499	ID:2	[INFO: App       ] Sending request 1 to fd00::c30c:0:0:a
+02:54.573	ID:10	[INFO: App       ] Received request 'hello 1' from fd00::c30c:0:0:2
+02:54.576	ID:10	[INFO: App       ] Sending response.
+02:54.620	ID:2	[INFO: App       ] Received response 'hello 1' from fd00::c30c:0:0:a
+02:56.909	ID:9	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+02:56.922	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:9
+02:56.925	ID:10	[INFO: App       ] Sending response.
+02:56.950	ID:9	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:00.728	ID:7	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:00.780	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:7
+03:00.782	ID:10	[INFO: App       ] Sending response.
+03:00.840	ID:7	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:00.981	ID:8	[INFO: Energest  ] 2;1966081;4684;1961397;0;260;1965817;1966077
+03:01.146	ID:2	[INFO: Energest  ] 2;1966080;6048;1960032;0;269;1965809;1966078
+03:01.159	ID:6	[INFO: Energest  ] 2;1966081;4687;1961394;0;262;1965817;1966079
+03:01.257	ID:4	[INFO: Energest  ] 2;1966079;2851;1963228;0;161;1965917;1966078
+03:01.296	ID:1	[INFO: Energest  ] 2;1966081;9868;1956213;0;519;1965555;1966074
+03:01.310	ID:7	[INFO: Energest  ] 2;1966080;4464;1961616;0;204;1965873;1966077
+03:01.465	ID:10	[INFO: Energest  ] 2;1965943;7560;1958383;0;587;1965349;1965936
+03:01.622	ID:9	[INFO: Energest  ] 2;1966079;7697;1958382;0;283;1965796;1966079
+03:01.624	ID:5	[INFO: Energest  ] 2;1966081;4373;1961708;0;268;1965808;1966076
+03:01.816	ID:3	[INFO: Energest  ] 2;1966079;8132;1957947;0;154;1965926;1966080
+03:04.533	ID:5	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:04.596	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:5
+03:04.599	ID:10	[INFO: App       ] Sending response.
+03:04.675	ID:5	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:09.256	ID:3	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:09.270	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:3
+03:09.272	ID:10	[INFO: App       ] Sending response.
+03:09.286	ID:3	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:11.161	ID:1	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:11.205	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:1
+03:11.208	ID:10	[INFO: App       ] Sending response.
+03:11.231	ID:1	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:42.656	ID:8	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:42.669	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:8
+03:42.672	ID:10	[INFO: App       ] Sending response.
+03:42.715	ID:8	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:48.053	ID:6	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:48.066	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:6
+03:48.069	ID:10	[INFO: App       ] Sending response.
+03:48.090	ID:6	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:48.815	ID:4	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:48.907	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:4
+03:48.910	ID:10	[INFO: App       ] Sending response.
+03:48.962	ID:4	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:55.273	ID:2	[INFO: App       ] Sending request 2 to fd00::c30c:0:0:a
+03:55.440	ID:10	[INFO: App       ] Received request 'hello 2' from fd00::c30c:0:0:2
+03:55.443	ID:10	[INFO: App       ] Sending response.
+03:55.534	ID:2	[INFO: App       ] Received response 'hello 2' from fd00::c30c:0:0:a
+03:57.503	ID:9	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+03:57.555	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:9
+03:57.558	ID:10	[INFO: App       ] Sending response.
+03:57.574	ID:9	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+03:59.915	ID:7	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+03:59.936	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:7
+03:59.938	ID:10	[INFO: App       ] Sending response.
+03:59.989	ID:7	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:00.981	ID:8	[INFO: Energest  ] 3;1966079;2597;1963482;0;51;1966028;1966079
+04:01.146	ID:2	[INFO: Energest  ] 3;1966080;2524;1963556;0;59;1966019;1966078
+04:01.159	ID:6	[INFO: Energest  ] 3;1966080;4072;1962008;0;374;1965704;1966078
+04:01.257	ID:4	[INFO: Energest  ] 3;1966081;2723;1963358;0;166;1965911;1966077
+04:01.296	ID:1	[INFO: Energest  ] 3;1966079;7414;1958665;0;537;1965534;1966071
+04:01.310	ID:7	[INFO: Energest  ] 3;1966081;3723;1962358;0;260;1965816;1966076
+04:01.465	ID:10	[INFO: Energest  ] 3;1966080;6788;1959292;0;485;1965586;1966071
+04:01.622	ID:9	[INFO: Energest  ] 3;1966080;6263;1959817;0;287;1965788;1966075
+04:01.624	ID:5	[INFO: Energest  ] 3;1966080;3047;1963033;0;167;1965912;1966079
+04:01.816	ID:3	[INFO: Energest  ] 3;1966080;5603;1960477;0;158;1965920;1966078
+04:04.361	ID:5	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+04:04.404	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:5
+04:04.407	ID:10	[INFO: App       ] Sending response.
+04:04.448	ID:5	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:08.358	ID:3	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+04:08.410	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:3
+04:08.413	ID:10	[INFO: App       ] Sending response.
+04:08.465	ID:3	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:11.364	ID:1	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+04:11.393	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:1
+04:11.395	ID:10	[INFO: App       ] Sending response.
+04:11.450	ID:1	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:41.735	ID:8	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+04:41.764	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:8
+04:41.766	ID:10	[INFO: App       ] Sending response.
+04:41.817	ID:8	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:48.741	ID:6	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+04:48.753	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:6
+04:48.756	ID:10	[INFO: App       ] Sending response.
+04:48.809	ID:6	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:49.557	ID:4	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+04:49.649	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:4
+04:49.652	ID:10	[INFO: App       ] Sending response.
+04:49.720	ID:4	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:55.007	ID:2	[INFO: App       ] Sending request 3 to fd00::c30c:0:0:a
+04:55.059	ID:10	[INFO: App       ] Received request 'hello 3' from fd00::c30c:0:0:2
+04:55.061	ID:10	[INFO: App       ] Sending response.
+04:55.151	ID:2	[INFO: App       ] Received response 'hello 3' from fd00::c30c:0:0:a
+04:58.433	ID:9	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+04:58.445	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:9
+04:58.448	ID:10	[INFO: App       ] Sending response.
+04:58.504	ID:9	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:00.681	ID:7	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:00.694	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:7
+05:00.697	ID:10	[INFO: App       ] Sending response.
+05:00.715	ID:7	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:00.981	ID:8	[INFO: Energest  ] 4;1966080;3605;1962475;0;158;1965920;1966078
+05:01.146	ID:2	[INFO: Energest  ] 4;1966080;5533;1960547;0;166;1965912;1966078
+05:01.159	ID:6	[INFO: Energest  ] 4;1966079;3022;1963057;0;153;1965925;1966078
+05:01.257	ID:4	[INFO: Energest  ] 4;1966079;2865;1963214;0;161;1965917;1966078
+05:01.296	ID:1	[INFO: Energest  ] 4;1966080;8161;1957919;0;411;1965663;1966074
+05:01.310	ID:7	[INFO: Energest  ] 4;1966079;3178;1962901;0;51;1966027;1966078
+05:01.465	ID:10	[INFO: Energest  ] 4;1966080;7303;1958777;0;588;1965486;1966074
+05:01.622	ID:9	[INFO: Energest  ] 4;1966080;7225;1958855;0;283;1965794;1966077
+05:01.624	ID:5	[INFO: Energest  ] 4;1966080;4372;1961708;0;268;1965808;1966076
+05:01.816	ID:3	[INFO: Energest  ] 4;1966081;8254;1957827;0;261;1965816;1966077
+05:03.791	ID:5	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:03.862	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:5
+05:03.865	ID:10	[INFO: App       ] Sending response.
+05:03.902	ID:5	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:07.467	ID:3	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:07.512	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:3
+05:07.514	ID:10	[INFO: App       ] Sending response.
+05:07.559	ID:3	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:12.310	ID:1	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:12.322	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:1
+05:12.325	ID:10	[INFO: App       ] Sending response.
+05:12.356	ID:1	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:41.922	ID:8	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:41.943	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:8
+05:41.946	ID:10	[INFO: App       ] Sending response.
+05:41.981	ID:8	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:48.744	ID:4	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:48.790	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:4
+05:48.793	ID:10	[INFO: App       ] Sending response.
+05:48.821	ID:4	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:49.616	ID:6	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:49.660	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:6
+05:49.663	ID:10	[INFO: App       ] Sending response.
+05:49.677	ID:6	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:54.718	ID:2	[INFO: App       ] Sending request 4 to fd00::c30c:0:0:a
+05:54.738	ID:10	[INFO: App       ] Received request 'hello 4' from fd00::c30c:0:0:2
+05:54.740	ID:10	[INFO: App       ] Sending response.
+05:54.777	ID:2	[INFO: App       ] Received response 'hello 4' from fd00::c30c:0:0:a
+05:59.058	ID:9	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+05:59.079	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:9
+05:59.081	ID:10	[INFO: App       ] Sending response.
+05:59.098	ID:9	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:00.056	ID:7	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:00.069	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:7
+06:00.072	ID:10	[INFO: App       ] Sending response.
+06:00.121	ID:7	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:00.981	ID:8	[INFO: Energest  ] 5;1966080;3041;1963039;0;153;1965925;1966078
+06:01.146	ID:2	[INFO: Energest  ] 5;1966080;3982;1962098;0;268;1965810;1966078
+06:01.159	ID:6	[INFO: Energest  ] 5;1966081;3690;1962391;0;158;1965919;1966077
+06:01.257	ID:4	[INFO: Energest  ] 5;1966080;2121;1963959;0;59;1966020;1966079
+06:01.296	ID:1	[INFO: Energest  ] 5;1966080;7655;1958425;0;415;1965658;1966073
+06:01.310	ID:7	[INFO: Energest  ] 5;1966081;3366;1962715;0;158;1965921;1966079
+06:01.465	ID:10	[INFO: Energest  ] 5;1966080;6803;1959277;0;485;1965586;1966071
+06:01.622	ID:9	[INFO: Energest  ] 5;1966080;5703;1960377;0;287;1965789;1966076
+06:01.623	ID:5	[INFO: Energest  ] 5;1966079;2622;1963457;0;59;1966020;1966079
+06:01.816	ID:3	[INFO: Energest  ] 5;1966079;4865;1961214;0;51;1966028;1966079
+06:02.861	ID:5	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:02.924	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:5
+06:02.927	ID:10	[INFO: App       ] Sending response.
+06:02.979	ID:5	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:06.975	ID:3	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:07.027	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:3
+06:07.030	ID:10	[INFO: App       ] Sending response.
+06:07.044	ID:3	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:12.341	ID:1	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:12.354	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:1
+06:12.356	ID:10	[INFO: App       ] Sending response.
+06:12.403	ID:1	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:42.820	ID:8	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:42.833	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:8
+06:42.836	ID:10	[INFO: App       ] Sending response.
+06:42.851	ID:8	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:49.424	ID:4	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:49.493	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:4
+06:49.496	ID:10	[INFO: App       ] Sending response.
+06:49.532	ID:4	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:50.569	ID:6	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:50.613	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:6
+06:50.616	ID:10	[INFO: App       ] Sending response.
+06:50.668	ID:6	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:55.234	ID:2	[INFO: App       ] Sending request 5 to fd00::c30c:0:0:a
+06:55.299	ID:10	[INFO: App       ] Received request 'hello 5' from fd00::c30c:0:0:2
+06:55.302	ID:10	[INFO: App       ] Sending response.
+06:55.362	ID:2	[INFO: App       ] Received response 'hello 5' from fd00::c30c:0:0:a
+06:59.509	ID:7	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+06:59.522	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:7
+06:59.524	ID:10	[INFO: App       ] Sending response.
+06:59.567	ID:7	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+06:59.870	ID:9	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+06:59.883	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:9
+06:59.886	ID:10	[INFO: App       ] Sending response.
+06:59.899	ID:9	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:00.981	ID:8	[INFO: Energest  ] 6;1966080;3789;1962291;0;265;1965811;1966076
+07:01.146	ID:2	[INFO: Energest  ] 6;1966079;2933;1963146;0;59;1966018;1966077
+07:01.159	ID:6	[INFO: Energest  ] 6;1966079;3980;1962099;0;158;1965919;1966077
+07:01.257	ID:4	[INFO: Energest  ] 6;1966080;2131;1963949;0;60;1966020;1966080
+07:01.296	ID:1	[INFO: Energest  ] 6;1966080;7152;1958928;0;416;1965658;1966074
+07:01.310	ID:7	[INFO: Energest  ] 6;1966079;3342;1962737;0;158;1965919;1966077
+07:01.465	ID:10	[INFO: Energest  ] 6;1966080;6657;1959423;0;485;1965588;1966073
+07:01.622	ID:9	[INFO: Energest  ] 6;1966080;5734;1960346;0;287;1965788;1966075
+07:01.623	ID:5	[INFO: Energest  ] 6;1966080;3345;1962735;0;166;1965911;1966077
+07:01.816	ID:3	[INFO: Energest  ] 6;1966080;4338;1961742;0;158;1965921;1966079
+07:02.330	ID:5	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+07:02.389	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:5
+07:02.391	ID:10	[INFO: App       ] Sending response.
+07:02.479	ID:5	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:06.866	ID:3	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+07:06.918	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:3
+07:06.921	ID:10	[INFO: App       ] Sending response.
+07:06.934	ID:3	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:13.200	ID:1	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+07:13.252	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:1
+07:13.255	ID:10	[INFO: App       ] Sending response.
+07:13.285	ID:1	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:43.539	ID:8	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+07:43.552	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:8
+07:43.555	ID:10	[INFO: App       ] Sending response.
+07:43.614	ID:8	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:49.323	ID:4	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+07:49.368	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:4
+07:49.371	ID:10	[INFO: App       ] Sending response.
+07:49.402	ID:4	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:50.623	ID:6	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+07:50.668	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:6
+07:50.670	ID:10	[INFO: App       ] Sending response.
+07:50.692	ID:6	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:54.359	ID:2	[INFO: App       ] Sending request 6 to fd00::c30c:0:0:a
+07:54.379	ID:10	[INFO: App       ] Received request 'hello 6' from fd00::c30c:0:0:2
+07:54.381	ID:10	[INFO: App       ] Sending response.
+07:54.449	ID:2	[INFO: App       ] Received response 'hello 6' from fd00::c30c:0:0:a
+07:59.894	ID:9	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+07:59.906	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:9
+07:59.909	ID:10	[INFO: App       ] Sending response.
+07:59.926	ID:9	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:00.064	ID:7	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:00.076	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:7
+08:00.079	ID:10	[INFO: App       ] Sending response.
+08:00.114	ID:7	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:00.981	ID:8	[INFO: Energest  ] 7;1966080;3496;1962584;0;51;1966027;1966078
+08:01.146	ID:2	[INFO: Energest  ] 7;1966081;4715;1961366;0;167;1965911;1966078
+08:01.159	ID:6	[INFO: Energest  ] 7;1966080;3382;1962698;0;154;1965925;1966079
+08:01.257	ID:4	[INFO: Energest  ] 7;1966080;2372;1963708;0;60;1966020;1966080
+08:01.296	ID:1	[INFO: Energest  ] 7;1966080;7632;1958448;0;413;1965664;1966077
+08:01.310	ID:7	[INFO: Energest  ] 7;1966081;4048;1962033;0;261;1965816;1966077
+08:01.465	ID:10	[INFO: Energest  ] 7;1966080;7334;1958746;0;588;1965489;1966077
+08:01.622	ID:9	[INFO: Energest  ] 7;1966080;6675;1959405;0;283;1965794;1966077
+08:01.623	ID:5	[INFO: Energest  ] 7;1966080;3040;1963040;0;162;1965917;1966079
+08:01.816	ID:3	[INFO: Energest  ] 7;1966080;6855;1959225;0;158;1965919;1966077
+08:01.838	ID:5	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:01.870	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:5
+08:01.872	ID:10	[INFO: App       ] Sending response.
+08:01.932	ID:5	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:06.366	ID:3	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:06.395	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:3
+08:06.397	ID:10	[INFO: App       ] Sending response.
+08:06.450	ID:3	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:13.255	ID:1	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:13.268	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:1
+08:13.270	ID:10	[INFO: App       ] Sending response.
+08:13.293	ID:1	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:43.297	ID:8	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:43.326	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:8
+08:43.329	ID:10	[INFO: App       ] Sending response.
+08:43.364	ID:8	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:49.643	ID:4	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:49.720	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:4
+08:49.722	ID:10	[INFO: App       ] Sending response.
+08:49.753	ID:4	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:50.264	ID:6	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:50.301	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:6
+08:50.303	ID:10	[INFO: App       ] Sending response.
+08:50.340	ID:6	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:54.898	ID:2	[INFO: App       ] Sending request 7 to fd00::c30c:0:0:a
+08:54.964	ID:10	[INFO: App       ] Received request 'hello 7' from fd00::c30c:0:0:2
+08:54.966	ID:10	[INFO: App       ] Sending response.
+08:55.034	ID:2	[INFO: App       ] Received response 'hello 7' from fd00::c30c:0:0:a
+08:59.237	ID:9	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+08:59.259	ID:7	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+08:59.274	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:9
+08:59.277	ID:10	[INFO: App       ] Sending response.
+08:59.288	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:7
+08:59.290	ID:10	[INFO: App       ] Sending response.
+08:59.309	ID:9	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+08:59.324	ID:7	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:00.981	ID:8	[INFO: Energest  ] 8;1966080;3361;1962719;0;158;1965920;1966078
+09:01.146	ID:2	[INFO: Energest  ] 8;1966080;6222;1959858;0;377;1965701;1966078
+09:01.159	ID:6	[INFO: Energest  ] 8;1966080;3357;1962723;0;158;1965919;1966077
+09:01.257	ID:4	[INFO: Energest  ] 8;1966080;2674;1963406;0;162;1965917;1966079
+09:01.296	ID:1	[INFO: Energest  ] 8;1966080;7684;1958396;0;416;1965657;1966073
+09:01.310	ID:7	[INFO: Energest  ] 8;1966079;2306;1963773;0;51;1966027;1966078
+09:01.465	ID:10	[INFO: Energest  ] 8;1966080;6766;1959314;0;485;1965587;1966072
+09:01.622	ID:9	[INFO: Energest  ] 8;1966080;6721;1959359;0;287;1965788;1966075
+09:01.623	ID:5	[INFO: Energest  ] 8;1966080;3976;1962104;0;166;1965912;1966078
+09:01.816	ID:3	[INFO: Energest  ] 8;1966081;6293;1959788;0;153;1965925;1966078
+09:02.494	ID:5	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+09:02.549	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:5
+09:02.552	ID:10	[INFO: App       ] Sending response.
+09:02.604	ID:5	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:05.800	ID:3	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+09:05.832	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:3
+09:05.835	ID:10	[INFO: App       ] Sending response.
+09:05.856	ID:3	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:13.489	ID:1	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+09:13.526	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:1
+09:13.528	ID:10	[INFO: App       ] Sending response.
+09:13.575	ID:1	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:42.438	ID:8	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+09:42.466	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:8
+09:42.469	ID:10	[INFO: App       ] Sending response.
+09:42.484	ID:8	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:49.096	ID:4	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+09:49.126	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:4
+09:49.129	ID:10	[INFO: App       ] Sending response.
+09:49.196	ID:4	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:50.256	ID:6	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+09:50.285	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:6
+09:50.288	ID:10	[INFO: App       ] Sending response.
+09:50.325	ID:6	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:54.203	ID:2	[INFO: App       ] Sending request 8 to fd00::c30c:0:0:a
+09:54.299	ID:10	[INFO: App       ] Received request 'hello 8' from fd00::c30c:0:0:2
+09:54.302	ID:10	[INFO: App       ] Sending response.
+09:54.385	ID:2	[INFO: App       ] Received response 'hello 8' from fd00::c30c:0:0:a
+09:59.751	ID:7	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+09:59.803	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:7
+09:59.806	ID:10	[INFO: App       ] Sending response.
+09:59.832	ID:7	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+09:59.917	ID:9	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+09:59.946	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:9
+09:59.949	ID:10	[INFO: App       ] Sending response.
+09:59.981	ID:9	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:00.981	ID:8	[INFO: Energest  ] 9;1966081;3794;1962287;0;261;1965816;1966077
+10:01.146	ID:2	[INFO: Energest  ] 9;1966080;2548;1963532;0;59;1966019;1966078
+10:01.159	ID:6	[INFO: Energest  ] 9;1966080;2661;1963419;0;51;1966028;1966079
+10:01.257	ID:4	[INFO: Energest  ] 9;1966080;2147;1963933;0;59;1966020;1966079
+10:01.296	ID:1	[INFO: Energest  ] 9;1966080;5990;1960090;0;309;1965766;1966075
+10:01.310	ID:7	[INFO: Energest  ] 9;1966081;3702;1962379;0;158;1965920;1966078
+10:01.465	ID:10	[INFO: Energest  ] 9;1966080;6843;1959237;0;484;1965588;1966072
+10:01.622	ID:9	[INFO: Energest  ] 9;1966081;4068;1962013;0;180;1965897;1966077
+10:01.624	ID:5	[INFO: Energest  ] 9;1966081;3086;1962995;0;166;1965911;1966077
+10:01.816	ID:3	[INFO: Energest  ] 9;1966080;5028;1961052;0;159;1965920;1966079
+10:02.439	ID:5	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+10:02.526	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:5
+10:02.529	ID:10	[INFO: App       ] Sending response.
+10:02.581	ID:5	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:04.983	ID:3	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+10:04.996	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:3
+10:04.998	ID:10	[INFO: App       ] Sending response.
+10:05.028	ID:3	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:13.419	ID:1	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+10:13.447	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:1
+10:13.450	ID:10	[INFO: App       ] Sending response.
+10:13.463	ID:1	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:42.172	ID:8	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+10:42.225	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:8
+10:42.227	ID:10	[INFO: App       ] Sending response.
+10:42.262	ID:8	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:49.854	ID:4	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+10:49.884	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:4
+10:49.886	ID:10	[INFO: App       ] Sending response.
+10:49.930	ID:4	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:50.584	ID:6	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+10:50.629	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:6
+10:50.632	ID:10	[INFO: App       ] Sending response.
+10:50.660	ID:6	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:54.148	ID:2	[INFO: App       ] Sending request 9 to fd00::c30c:0:0:a
+10:54.198	ID:10	[INFO: App       ] Received request 'hello 9' from fd00::c30c:0:0:2
+10:54.201	ID:10	[INFO: App       ] Sending response.
+10:54.284	ID:2	[INFO: App       ] Received response 'hello 9' from fd00::c30c:0:0:a
+10:59.292	ID:9	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+10:59.329	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:9
+10:59.331	ID:10	[INFO: App       ] Sending response.
+10:59.345	ID:9	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+10:59.384	ID:7	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+10:59.436	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:7
+10:59.439	ID:10	[INFO: App       ] Sending response.
+10:59.457	ID:7	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:00.981	ID:8	[INFO: Energest  ] 10;1966079;2630;1963449;0;51;1966027;1966078
+11:01.147	ID:2	[INFO: Energest  ] 10;1966080;3516;1962564;0;166;1965911;1966077
+11:01.159	ID:6	[INFO: Energest  ] 10;1966080;3064;1963016;0;158;1965919;1966077
+11:01.257	ID:4	[INFO: Energest  ] 10;1966080;2173;1963907;0;59;1966020;1966079
+11:01.296	ID:1	[INFO: Energest  ] 10;1966080;7170;1958910;0;415;1965656;1966071
+11:01.310	ID:7	[INFO: Energest  ] 10;1966079;2320;1963759;0;52;1966026;1966078
+11:01.465	ID:10	[INFO: Energest  ] 10;1966080;6686;1959394;0;487;1965584;1966071
+11:01.622	ID:9	[INFO: Energest  ] 10;1966079;5750;1960329;0;289;1965788;1966077
+11:01.624	ID:5	[INFO: Energest  ] 10;1966079;3383;1962696;0;167;1965911;1966078
+11:01.816	ID:3	[INFO: Energest  ] 10;1966080;5645;1960435;0;158;1965919;1966077
+11:01.900	ID:5	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+11:01.971	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:5
+11:01.974	ID:10	[INFO: App       ] Sending response.
+11:02.073	ID:5	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:04.249	ID:3	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+11:04.293	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:3
+11:04.296	ID:10	[INFO: App       ] Sending response.
+11:04.333	ID:3	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:13.028	ID:1	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+11:13.057	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:1
+11:13.060	ID:10	[INFO: App       ] Sending response.
+11:13.082	ID:1	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:41.883	ID:8	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+11:41.896	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:8
+11:41.899	ID:10	[INFO: App       ] Sending response.
+11:41.918	ID:8	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:49.081	ID:4	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+11:49.111	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:4
+11:49.113	ID:10	[INFO: App       ] Sending response.
+11:49.165	ID:4	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:50.514	ID:6	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+11:50.535	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:6
+11:50.538	ID:10	[INFO: App       ] Sending response.
+11:50.567	ID:6	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:54.726	ID:2	[INFO: App       ] Sending request 10 to fd00::c30c:0:0:a
+11:54.807	ID:10	[INFO: App       ] Received request 'hello 10' from fd00::c30c:0:0:2
+11:54.810	ID:10	[INFO: App       ] Sending response.
+11:54.878	ID:2	[INFO: App       ] Received response 'hello 10' from fd00::c30c:0:0:a
+11:59.814	ID:7	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+11:59.827	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:7
+11:59.829	ID:10	[INFO: App       ] Sending response.
+11:59.887	ID:7	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:00.128	ID:9	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:00.141	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:9
+12:00.144	ID:10	[INFO: App       ] Sending response.
+12:00.184	ID:9	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:00.939	ID:5	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:00.981	ID:8	[INFO: Energest  ] 11;1966080;3359;1962721;0;159;1965919;1966078
+12:01.034	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:5
+12:01.037	ID:10	[INFO: App       ] Sending response.
+12:01.073	ID:5	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:01.146	ID:2	[INFO: Energest  ] 11;1966079;2984;1963095;0;60;1966019;1966079
+12:01.159	ID:6	[INFO: Energest  ] 11;1966080;2415;1963665;0;52;1966027;1966079
+12:01.257	ID:4	[INFO: Energest  ] 11;1966080;2181;1963899;0;61;1966019;1966080
+12:01.296	ID:1	[INFO: Energest  ] 11;1966080;8048;1958032;0;554;1965519;1966073
+12:01.310	ID:7	[INFO: Energest  ] 11;1966080;3387;1962693;0;159;1965919;1966078
+12:01.465	ID:10	[INFO: Energest  ] 11;1966080;7326;1958754;0;553;1965518;1966071
+12:01.622	ID:9	[INFO: Energest  ] 11;1966080;5755;1960325;0;290;1965786;1966076
+12:01.624	ID:5	[INFO: Energest  ] 11;1966080;3302;1962778;0;121;1965958;1966079
+12:01.816	ID:3	[INFO: Energest  ] 11;1966079;3034;1963045;0;52;1966026;1966078
+12:03.366	ID:3	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:03.403	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:3
+12:03.405	ID:10	[INFO: App       ] Sending response.
+12:03.434	ID:3	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:12.833	ID:1	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:12.885	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:1
+12:12.888	ID:10	[INFO: App       ] Sending response.
+12:12.903	ID:1	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:42.164	ID:8	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:42.217	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:8
+12:42.219	ID:10	[INFO: App       ] Sending response.
+12:42.270	ID:8	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:48.276	ID:4	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:48.319	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:4
+12:48.322	ID:10	[INFO: App       ] Sending response.
+12:48.343	ID:4	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:49.663	ID:6	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:49.692	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:6
+12:49.694	ID:10	[INFO: App       ] Sending response.
+12:49.708	ID:6	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:54.414	ID:2	[INFO: App       ] Sending request 11 to fd00::c30c:0:0:a
+12:54.448	ID:10	[INFO: App       ] Received request 'hello 11' from fd00::c30c:0:0:2
+12:54.451	ID:10	[INFO: App       ] Sending response.
+12:54.534	ID:2	[INFO: App       ] Received response 'hello 11' from fd00::c30c:0:0:a
+12:59.939	ID:7	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+12:59.968	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:7
+12:59.970	ID:10	[INFO: App       ] Sending response.
+12:59.997	ID:7	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:00.269	ID:9	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:00.282	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:9
+13:00.285	ID:10	[INFO: App       ] Sending response.
+13:00.340	ID:9	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:00.822	ID:5	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:00.878	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:5
+13:00.880	ID:10	[INFO: App       ] Sending response.
+13:00.948	ID:5	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:00.981	ID:8	[INFO: Energest  ] 12;1966080;3383;1962697;0;159;1965918;1966077
+13:01.147	ID:2	[INFO: Energest  ] 12;1966081;3516;1962565;0;167;1965910;1966077
+13:01.159	ID:6	[INFO: Energest  ] 12;1966080;2360;1963720;0;52;1966026;1966078
+13:01.257	ID:4	[INFO: Energest  ] 12;1966080;2145;1963935;0;60;1966018;1966078
+13:01.296	ID:1	[INFO: Energest  ] 12;1966080;6004;1960076;0;315;1965760;1966075
+13:01.310	ID:7	[INFO: Energest  ] 12;1966080;3401;1962679;0;159;1965918;1966077
+13:01.465	ID:10	[INFO: Energest  ] 12;1966080;6722;1959358;0;494;1965579;1966073
+13:01.622	ID:9	[INFO: Energest  ] 12;1966080;4056;1962024;0;184;1965894;1966078
+13:01.623	ID:5	[INFO: Energest  ] 12;1966080;2707;1963373;0;60;1966019;1966079
+13:01.816	ID:3	[INFO: Energest  ] 12;1966081;4422;1961659;0;159;1965920;1966079
+13:03.655	ID:3	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:03.668	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:3
+13:03.670	ID:10	[INFO: App       ] Sending response.
+13:03.723	ID:3	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:13.177	ID:1	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:13.205	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:1
+13:13.208	ID:10	[INFO: App       ] Sending response.
+13:13.262	ID:1	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:41.235	ID:8	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:41.248	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:8
+13:41.251	ID:10	[INFO: App       ] Sending response.
+13:41.278	ID:8	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:48.768	ID:4	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:48.821	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:4
+13:48.824	ID:10	[INFO: App       ] Sending response.
+13:48.876	ID:4	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:49.233	ID:6	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:49.254	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:6
+13:49.257	ID:10	[INFO: App       ] Sending response.
+13:49.317	ID:6	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:55.265	ID:2	[INFO: App       ] Sending request 12 to fd00::c30c:0:0:a
+13:55.323	ID:10	[INFO: App       ] Received request 'hello 12' from fd00::c30c:0:0:2
+13:55.326	ID:10	[INFO: App       ] Sending response.
+13:55.386	ID:2	[INFO: App       ] Received response 'hello 12' from fd00::c30c:0:0:a
+13:59.478	ID:7	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+13:59.507	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:7
+13:59.509	ID:10	[INFO: App       ] Sending response.
+13:59.536	ID:7	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:00.981	ID:8	[INFO: Energest  ] 13;1966080;2378;1963702;0;52;1966027;1966079
+14:01.003	ID:9	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:01.049	ID:5	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:01.055	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:9
+14:01.058	ID:10	[INFO: App       ] Sending response.
+14:01.075	ID:9	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:01.135	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:5
+14:01.138	ID:10	[INFO: App       ] Sending response.
+14:01.147	ID:2	[INFO: Energest  ] 13;1966080;3512;1962568;0;167;1965910;1966077
+14:01.159	ID:6	[INFO: Energest  ] 13;1966080;2405;1963675;0;52;1966028;1966080
+14:01.214	ID:5	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:01.257	ID:4	[INFO: Energest  ] 13;1966080;2738;1963342;0;167;1965911;1966078
+14:01.296	ID:1	[INFO: Energest  ] 13;1966080;6681;1959399;0;422;1965654;1966076
+14:01.310	ID:7	[INFO: Energest  ] 13;1966080;2393;1963687;0;52;1966027;1966079
+14:01.465	ID:10	[INFO: Energest  ] 13;1966080;6750;1959330;0;494;1965579;1966073
+14:01.622	ID:9	[INFO: Energest  ] 13;1966081;5747;1960334;0;290;1965787;1966077
+14:01.623	ID:5	[INFO: Energest  ] 13;1966080;2377;1963703;0;61;1966018;1966079
+14:01.816	ID:3	[INFO: Energest  ] 13;1966079;4938;1961141;0;52;1966026;1966078
+14:03.202	ID:3	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:03.215	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:3
+14:03.217	ID:10	[INFO: App       ] Sending response.
+14:03.262	ID:3	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:13.849	ID:1	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:13.877	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:1
+14:13.880	ID:10	[INFO: App       ] Sending response.
+14:13.893	ID:1	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:41.774	ID:8	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:41.818	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:8
+14:41.821	ID:10	[INFO: App       ] Sending response.
+14:41.840	ID:8	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:48.272	ID:6	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:48.285	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:6
+14:48.288	ID:10	[INFO: App       ] Sending response.
+14:48.325	ID:6	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:48.706	ID:4	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:48.759	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:4
+14:48.762	ID:10	[INFO: App       ] Sending response.
+14:48.829	ID:4	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:55.125	ID:2	[INFO: App       ] Sending request 13 to fd00::c30c:0:0:a
+14:55.182	ID:10	[INFO: App       ] Received request 'hello 13' from fd00::c30c:0:0:2
+14:55.185	ID:10	[INFO: App       ] Sending response.
+14:55.206	ID:2	[INFO: App       ] Received response 'hello 13' from fd00::c30c:0:0:a
+14:59.986	ID:7	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:00.038	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:7
+15:00.040	ID:10	[INFO: App       ] Sending response.
+15:00.075	ID:7	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:00.636	ID:9	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:00.688	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:9
+15:00.691	ID:10	[INFO: App       ] Sending response.
+15:00.739	ID:9	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:00.981	ID:8	[INFO: Energest  ] 14;1966081;2709;1963372;0;52;1966027;1966079
+15:01.010	ID:5	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:01.065	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:5
+15:01.068	ID:10	[INFO: App       ] Sending response.
+15:01.128	ID:5	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:01.147	ID:2	[INFO: Energest  ] 14;1966081;4488;1961593;0;270;1965808;1966078
+15:01.159	ID:6	[INFO: Energest  ] 14;1966081;2740;1963341;0;52;1966027;1966079
+15:01.257	ID:4	[INFO: Energest  ] 14;1966081;2233;1963848;0;60;1966019;1966079
+15:01.296	ID:1	[INFO: Energest  ] 14;1966081;7723;1958358;0;417;1965659;1966076
+15:01.310	ID:7	[INFO: Energest  ] 14;1966081;2701;1963380;0;52;1966027;1966079
+15:01.465	ID:10	[INFO: Energest  ] 14;1966080;7052;1959028;0;596;1965475;1966071
+15:01.622	ID:9	[INFO: Energest  ] 14;1966079;6135;1959944;0;183;1965894;1966077
+15:01.623	ID:5	[INFO: Energest  ] 14;1966081;3065;1963016;0;61;1966020;1966081
+15:01.816	ID:3	[INFO: Energest  ] 14;1966081;6369;1959712;0;159;1965919;1966078
+15:02.608	ID:3	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:02.629	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:3
+15:02.632	ID:10	[INFO: App       ] Sending response.
+15:02.645	ID:3	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:13.466	ID:1	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:13.502	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:1
+15:13.505	ID:10	[INFO: App       ] Sending response.
+15:13.559	ID:1	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:41.282	ID:8	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:41.318	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:8
+15:41.321	ID:10	[INFO: App       ] Sending response.
+15:41.379	ID:8	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:47.987	ID:4	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:48.048	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:4
+15:48.051	ID:10	[INFO: App       ] Sending response.
+15:48.095	ID:4	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:48.358	ID:6	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:48.379	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:6
+15:48.382	ID:10	[INFO: App       ] Sending response.
+15:48.403	ID:6	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+15:55.187	ID:2	[INFO: App       ] Sending request 14 to fd00::c30c:0:0:a
+15:55.207	ID:10	[INFO: App       ] Received request 'hello 14' from fd00::c30c:0:0:2
+15:55.210	ID:10	[INFO: App       ] Sending response.
+15:55.292	ID:2	[INFO: App       ] Received response 'hello 14' from fd00::c30c:0:0:a
+16:00.290	ID:7	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:00.335	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:7
+16:00.337	ID:10	[INFO: App       ] Sending response.
+16:00.364	ID:7	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:00.564	ID:5	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:00.635	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:5
+16:00.638	ID:10	[INFO: App       ] Sending response.
+16:00.706	ID:5	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:00.738	ID:9	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:00.774	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:9
+16:00.777	ID:10	[INFO: App       ] Sending response.
+16:00.790	ID:9	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:00.981	ID:8	[INFO: Energest  ] 15;1966079;3418;1962661;0;159;1965920;1966079
+16:01.147	ID:2	[INFO: Energest  ] 15;1966079;3548;1962531;0;167;1965909;1966076
+16:01.159	ID:6	[INFO: Energest  ] 15;1966079;3000;1963079;0;52;1966026;1966078
+16:01.257	ID:4	[INFO: Energest  ] 15;1966079;2737;1963342;0;167;1965911;1966078
+16:01.296	ID:1	[INFO: Energest  ] 15;1966079;7249;1958830;0;422;1965655;1966077
+16:01.310	ID:7	[INFO: Energest  ] 15;1966079;2784;1963295;0;155;1965925;1966080
+16:01.465	ID:10	[INFO: Energest  ] 15;1966080;6878;1959202;0;494;1965578;1966072
+16:01.622	ID:9	[INFO: Energest  ] 15;1966080;5827;1960253;0;290;1965788;1966078
+16:01.623	ID:5	[INFO: Energest  ] 15;1966079;2391;1963688;0;60;1966018;1966078
+16:01.816	ID:3	[INFO: Energest  ] 15;1966079;4314;1961765;0;52;1966026;1966078
+16:02.303	ID:3	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:02.324	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:3
+16:02.327	ID:10	[INFO: App       ] Sending response.
+16:02.364	ID:3	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:13.692	ID:1	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:13.705	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:1
+16:13.708	ID:10	[INFO: App       ] Sending response.
+16:13.723	ID:1	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:41.172	ID:8	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:41.224	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:8
+16:41.227	ID:10	[INFO: App       ] Sending response.
+16:41.278	ID:8	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:48.057	ID:4	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:48.095	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:4
+16:48.097	ID:10	[INFO: App       ] Sending response.
+16:48.142	ID:4	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:48.163	ID:6	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:48.207	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:6
+16:48.210	ID:10	[INFO: App       ] Sending response.
+16:48.262	ID:6	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:54.914	ID:2	[INFO: App       ] Sending request 15 to fd00::c30c:0:0:a
+16:54.979	ID:10	[INFO: App       ] Received request 'hello 15' from fd00::c30c:0:0:2
+16:54.982	ID:10	[INFO: App       ] Sending response.
+16:55.050	ID:2	[INFO: App       ] Received response 'hello 15' from fd00::c30c:0:0:a
+16:59.979	ID:5	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:00.026	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:5
+17:00.029	ID:10	[INFO: App       ] Sending response.
+17:00.104	ID:5	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:00.790	ID:7	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:00.843	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:7
+17:00.845	ID:10	[INFO: App       ] Sending response.
+17:00.903	ID:7	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:00.981	ID:8	[INFO: Energest  ] 16;1966080;3110;1962970;0;154;1965924;1966078
+17:01.146	ID:2	[INFO: Energest  ] 16;1966079;3851;1962228;0;60;1966019;1966079
+17:01.159	ID:6	[INFO: Energest  ] 16;1966080;3754;1962326;0;159;1965920;1966079
+17:01.206	ID:9	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:01.235	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:9
+17:01.238	ID:10	[INFO: App       ] Sending response.
+17:01.257	ID:4	[INFO: Energest  ] 16;1966081;3536;1962545;0;270;1965807;1966077
+17:01.278	ID:9	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:01.296	ID:1	[INFO: Energest  ] 16;1966080;8296;1957784;0;422;1965655;1966077
+17:01.310	ID:7	[INFO: Energest  ] 16;1966080;3436;1962644;0;159;1965918;1966077
+17:01.465	ID:10	[INFO: Energest  ] 16;1966080;7148;1958932;0;495;1965579;1966074
+17:01.622	ID:9	[INFO: Energest  ] 16;1966080;6820;1959260;0;285;1965792;1966077
+17:01.624	ID:5	[INFO: Energest  ] 16;1966080;3129;1962951;0;164;1965917;1966081
+17:01.816	ID:3	[INFO: Energest  ] 16;1966081;7710;1958371;0;262;1965816;1966078
+17:03.296	ID:3	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:03.324	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:3
+17:03.327	ID:10	[INFO: App       ] Sending response.
+17:03.341	ID:3	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:13.521	ID:1	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:13.549	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:1
+17:13.552	ID:10	[INFO: App       ] Sending response.
+17:13.590	ID:1	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:41.117	ID:8	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:41.162	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:8
+17:41.165	ID:10	[INFO: App       ] Sending response.
+17:41.180	ID:8	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:48.639	ID:6	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:48.643	ID:4	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:48.668	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:6
+17:48.670	ID:10	[INFO: App       ] Sending response.
+17:48.689	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:4
+17:48.691	ID:10	[INFO: App       ] Sending response.
+17:48.705	ID:6	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:48.774	ID:4	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+17:55.187	ID:2	[INFO: App       ] Sending request 16 to fd00::c30c:0:0:a
+17:55.237	ID:10	[INFO: App       ] Received request 'hello 16' from fd00::c30c:0:0:2
+17:55.240	ID:10	[INFO: App       ] Sending response.
+17:55.300	ID:2	[INFO: App       ] Received response 'hello 16' from fd00::c30c:0:0:a
+18:00.260	ID:5	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:00.318	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:5
+18:00.321	ID:10	[INFO: App       ] Sending response.
+18:00.370	ID:5	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:00.981	ID:8	[INFO: Energest  ] 17;1966080;3431;1962649;0;159;1965918;1966077
+18:01.147	ID:2	[INFO: Energest  ] 17;1966081;3955;1962126;0;167;1965910;1966077
+18:01.159	ID:6	[INFO: Energest  ] 17;1966080;3111;1962969;0;154;1965925;1966079
+18:01.204	ID:7	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:01.257	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:7
+18:01.257	ID:4	[INFO: Energest  ] 17;1966079;2212;1963867;0;60;1966018;1966078
+18:01.259	ID:10	[INFO: App       ] Sending response.
+18:01.296	ID:1	[INFO: Energest  ] 17;1966080;5540;1960540;0;314;1965760;1966074
+18:01.315	ID:7	[INFO: Energest  ] 17;1966247;2964;1963283;0;159;1966085;1966244
+18:01.323	ID:7	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:01.465	ID:10	[INFO: Energest  ] 17;1966080;6316;1959764;0;442;1965632;1966074
+18:01.622	ID:9	[INFO: Energest  ] 17;1966080;4263;1961817;0;238;1965839;1966077
+18:01.624	ID:5	[INFO: Energest  ] 17;1966080;3174;1962906;0;167;1965910;1966077
+18:01.714	ID:9	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:01.735	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:9
+18:01.738	ID:10	[INFO: App       ] Sending response.
+18:01.793	ID:9	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:01.816	ID:3	[INFO: Energest  ] 17;1966079;6305;1959774;0;159;1965918;1966077
+18:03.428	ID:3	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:03.449	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:3
+18:03.452	ID:10	[INFO: App       ] Sending response.
+18:03.466	ID:3	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:13.802	ID:1	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:13.823	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:1
+18:13.825	ID:10	[INFO: App       ] Sending response.
+18:13.864	ID:1	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:41.696	ID:8	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:41.725	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:8
+18:41.727	ID:10	[INFO: App       ] Sending response.
+18:41.770	ID:8	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:48.381	ID:6	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:48.395	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:6
+18:48.397	ID:10	[INFO: App       ] Sending response.
+18:48.450	ID:6	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:49.151	ID:4	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:49.186	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:4
+18:49.189	ID:10	[INFO: App       ] Sending response.
+18:49.227	ID:4	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+18:55.781	ID:2	[INFO: App       ] Sending request 17 to fd00::c30c:0:0:a
+18:55.870	ID:10	[INFO: App       ] Received request 'hello 17' from fd00::c30c:0:0:2
+18:55.873	ID:10	[INFO: App       ] Sending response.
+18:55.917	ID:2	[INFO: App       ] Received response 'hello 17' from fd00::c30c:0:0:a
+19:00.861	ID:5	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:00.912	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:5
+19:00.915	ID:10	[INFO: App       ] Sending response.
+19:00.972	ID:5	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:00.981	ID:8	[INFO: Energest  ] 18;1966081;3769;1962312;0;159;1965920;1966079
+19:01.147	ID:2	[INFO: Energest  ] 18;1966080;3598;1962482;0;167;1965911;1966078
+19:01.159	ID:6	[INFO: Energest  ] 18;1966081;3193;1962888;0;159;1965918;1966077
+19:01.257	ID:4	[INFO: Energest  ] 18;1966081;2273;1963808;0;60;1966020;1966080
+19:01.296	ID:1	[INFO: Energest  ] 18;1966081;6724;1959357;0;422;1965656;1966078
+19:01.310	ID:7	[INFO: Energest  ] 18;1965913;2135;1963778;0;0;1965913;1965913
+19:01.465	ID:10	[INFO: Energest  ] 18;1966080;6196;1959884;0;443;1965633;1966076
+19:01.622	ID:9	[INFO: Energest  ] 18;1966080;4654;1961426;0;183;1965896;1966079
+19:01.623	ID:5	[INFO: Energest  ] 18;1966080;2735;1963345;0;60;1966019;1966079
+19:01.665	ID:7	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:01.686	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:7
+19:01.689	ID:10	[INFO: App       ] Sending response.
+19:01.731	ID:7	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:01.816	ID:3	[INFO: Energest  ] 18;1966081;5152;1960929;0;159;1965918;1966077
+19:02.214	ID:9	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:02.227	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:9
+19:02.230	ID:10	[INFO: App       ] Sending response.
+19:02.286	ID:9	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:03.577	ID:3	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:03.598	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:3
+19:03.600	ID:10	[INFO: App       ] Sending response.
+19:03.645	ID:3	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:13.005	ID:1	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:13.026	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:1
+19:13.028	ID:10	[INFO: App       ] Sending response.
+19:13.067	ID:1	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:42.078	ID:8	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:42.107	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:8
+19:42.110	ID:10	[INFO: App       ] Sending response.
+19:42.168	ID:8	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:49.264	ID:6	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:49.301	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:6
+19:49.304	ID:10	[INFO: App       ] Sending response.
+19:49.348	ID:6	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:50.041	ID:4	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:50.079	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:4
+19:50.082	ID:10	[INFO: App       ] Sending response.
+19:50.144	ID:4	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+19:56.703	ID:2	[INFO: App       ] Sending request 18 to fd00::c30c:0:0:a
+19:56.723	ID:10	[INFO: App       ] Received request 'hello 18' from fd00::c30c:0:0:2
+19:56.725	ID:10	[INFO: App       ] Sending response.
+19:56.793	ID:2	[INFO: App       ] Received response 'hello 18' from fd00::c30c:0:0:a
+20:00.080	ID:5	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:00.112	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:5
+20:00.115	ID:10	[INFO: App       ] Sending response.
+20:00.175	ID:5	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:00.981	ID:8	[INFO: Energest  ] 19;1966079;3141;1962938;0;159;1965918;1966077
+20:01.146	ID:2	[INFO: Energest  ] 19;1966079;3044;1963035;0;60;1966018;1966078
+20:01.159	ID:6	[INFO: Energest  ] 19;1966079;3495;1962584;0;159;1965919;1966078
+20:01.257	ID:4	[INFO: Energest  ] 19;1966079;2213;1963866;0;60;1966018;1966078
+20:01.296	ID:1	[INFO: Energest  ] 19;1966079;5552;1960527;0;314;1965762;1966076
+20:01.310	ID:7	[INFO: Energest  ] 19;1966080;3745;1962335;0;159;1965919;1966078
+20:01.465	ID:10	[INFO: Energest  ] 19;1966080;6800;1959280;0;495;1965578;1966073
+20:01.517	ID:7	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:01.538	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:7
+20:01.540	ID:10	[INFO: App       ] Sending response.
+20:01.554	ID:7	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:01.622	ID:9	[INFO: Energest  ] 19;1966080;5312;1960768;0;290;1965785;1966075
+20:01.624	ID:5	[INFO: Energest  ] 19;1966080;3916;1962164;0;274;1965802;1966076
+20:01.816	ID:3	[INFO: Energest  ] 19;1966079;4294;1961785;0;52;1966026;1966078
+20:02.628	ID:9	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:02.680	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:9
+20:02.683	ID:10	[INFO: App       ] Sending response.
+20:02.723	ID:9	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:04.546	ID:3	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:04.582	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:3
+20:04.585	ID:10	[INFO: App       ] Sending response.
+20:04.606	ID:3	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:13.661	ID:1	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:13.698	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:1
+20:13.700	ID:10	[INFO: App       ] Sending response.
+20:13.715	ID:1	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:41.344	ID:8	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:41.373	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:8
+20:41.376	ID:10	[INFO: App       ] Sending response.
+20:41.426	ID:8	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:49.030	ID:6	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:49.074	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:6
+20:49.077	ID:10	[INFO: App       ] Sending response.
+20:49.137	ID:6	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:50.541	ID:4	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:50.611	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:4
+20:50.613	ID:10	[INFO: App       ] Sending response.
+20:50.675	ID:4	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+20:56.484	ID:2	[INFO: App       ] Sending request 19 to fd00::c30c:0:0:a
+20:56.542	ID:10	[INFO: App       ] Received request 'hello 19' from fd00::c30c:0:0:2
+20:56.544	ID:10	[INFO: App       ] Sending response.
+20:56.612	ID:2	[INFO: App       ] Received response 'hello 19' from fd00::c30c:0:0:a
+21:00.236	ID:5	[INFO: App       ] Sending request 20 to fd00::c30c:0:0:a
+21:00.284	ID:10	[INFO: App       ] Received request 'hello 20' from fd00::c30c:0:0:5
+21:00.286	ID:10	[INFO: App       ] Sending response.
+21:00.331	ID:5	[INFO: App       ] Received response 'hello 20' from fd00::c30c:0:0:a
+21:00.981	ID:8	[INFO: Energest  ] 20;1966080;2753;1963327;0;52;1966027;1966079
+21:01.147	ID:2	[INFO: Energest  ] 20;1966081;3582;1962499;0;167;1965910;1966077
+21:01.159	ID:6	[INFO: Energest  ] 20;1966080;2422;1963658;0;52;1966026;1966078
+21:01.257	ID:4	[INFO: Energest  ] 20;1966080;2261;1963819;0;60;1966020;1966080
+21:01.296	ID:1	[INFO: Energest  ] 20;1966080;7217;1958863;0;421;1965655;1966076
+21:01.310	ID:7	[INFO: Energest  ] 20;1966080;3142;1962938;0;159;1965919;1966078
+21:01.465	ID:10	[INFO: Energest  ] 20;1966080;6792;1959288;0;493;1965577;1966070
+21:01.622	ID:9	[INFO: Energest  ] 20;1966080;4633;1961447;0;183;1965893;1966076
+21:01.623	ID:5	[INFO: Energest  ] 20;1966080;2435;1963645;0;60;1966018;1966078
+21:01.816	ID:3	[INFO: Energest  ] 20;1966080;5144;1960936;0;159;1965919;1966078
+21:02.376	ID:7	[INFO: App       ] Sending request 20 to fd00::c30c:0:0:a
+21:02.421	ID:10	[INFO: App       ] Received request 'hello 20' from fd00::c30c:0:0:7
+21:02.423	ID:10	[INFO: App       ] Sending response.
+21:02.442	ID:7	[INFO: App       ] Received response 'hello 20' from fd00::c30c:0:0:a
+21:02.659	ID:9	[INFO: App       ] Sending request 20 to fd00::c30c:0:0:a
+21:02.688	ID:10	[INFO: App       ] Received request 'hello 20' from fd00::c30c:0:0:9
+21:02.691	ID:10	[INFO: App       ] Sending response.
+21:02.707	ID:9	[INFO: App       ] Received response 'hello 20' from fd00::c30c:0:0:a
+21:05.249	ID:3	[INFO: App       ] Sending request 20 to fd00::c30c:0:0:a
+21:05.262	ID:10	[INFO: App       ] Received request 'hello 20' from fd00::c30c:0:0:3
+21:05.265	ID:10	[INFO: App       ] Sending response.
+21:05.301	ID:3	[INFO: App       ] Received response 'hello 20' from fd00::c30c:0:0:a
+21:13.075	ID:1	[INFO: App       ] Sending request 20 to fd00::c30c:0:0:a
+21:13.104	ID:10	[INFO: App       ] Received request 'hello 20' from fd00::c30c:0:0:1
+21:13.107	ID:10	[INFO: App       ] Sending response.
+21:13.145	ID:1	[INFO: App       ] Received response 'hello 20' from fd00::c30c:0:0:a
