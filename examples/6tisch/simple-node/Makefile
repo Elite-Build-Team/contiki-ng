@@ -14,6 +14,8 @@ MAKE_WITH_PERIODIC_ROUTES_PRINT ?= 0
 
 MAKE_MAC = MAKE_MAC_TSCH
 
+MODULES += $(CONTIKI_NG_SERVICES_DIR)/simple-energest
+
 include $(CONTIKI)/Makefile.dir-variables
 MODULES += $(CONTIKI_NG_SERVICES_DIR)/shell
 
